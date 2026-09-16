@@ -1,0 +1,13 @@
+Variant,Users,Conversions,Conversion_Rate,Revenue,Revenue_Per_User,Section,Metric,Value
+Control,288.0,34.0,0.11805555555555555,49776.16,172.8338888888889,Variant Summary,,
+Treatment,312.0,42.0,0.1346153846153846,55121.29,176.6708012820513,Variant Summary,,
+,,,,,,Experiment Metrics,Control Conversion Rate,0.11805555555555555
+,,,,,,Experiment Metrics,Treatment Conversion Rate,0.1346153846153846
+,,,,,,Experiment Metrics,Conversion Lift (%),14.027149321266966
+,,,,,,Experiment Metrics,Z Score,0.6093019610062016
+,,,,,,Experiment Metrics,P Value,0.542324307512766
+,,,,,,Experiment Metrics,Confidence Interval Lower,-0.036573917781293146
+,,,,,,Experiment Metrics,Confidence Interval Upper,0.06969357590095127
+,,,,,,Experiment Metrics,SRM P Value,0.6266418928295505
+,,,,,,Experiment Metrics,Treatment User Share,0.52
+,,,,,,Experiment Metrics,Decision,Not Significant
